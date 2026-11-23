@@ -2,6 +2,10 @@
 
 Writes the joke directly to $MAKEFUN_OUTPUT_DIR/entry.txt with a plain
 file write (no tempfile + rename). Python 3, standard library only.
+
+The joke: a Wi-Fi outage at dinner becomes a dad's proud claim that
+he is great at making connections — the setup and the punchline land
+on the same word.
 """
 
 import os
